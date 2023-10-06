@@ -1,0 +1,9 @@
+explications PyDéfis 
+
+level 1: 
+
+i multiple de 3 -> i%3 = 0
+
+|| = signe ou (comparaison) 
+for(let i=0; i<0; i++){
+

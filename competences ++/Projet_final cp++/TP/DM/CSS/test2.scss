@@ -1,0 +1,28 @@
+#title{ 
+        background-color: bisque;
+
+    &:hover{
+        background-color: magenta;
+    }
+}   
+
+.btn{
+    text-decoration: none;
+    text-align: center;
+    font-size: 16px;
+    background-color: green;
+
+    &:hover{
+        background-color: darkgreen;
+    }
+}
+
+.btn-suivant{
+    @extend .btn;
+    background-color: red;
+
+    &:hover{
+        background-color:darkred;
+    
+    }
+}

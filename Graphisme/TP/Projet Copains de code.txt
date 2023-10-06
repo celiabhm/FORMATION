@@ -1,0 +1,13 @@
+			Projet Copains de code 
+
+--> Réaliser les maquettes en amont afin d'avoir une idée contrainte du visuel du site internet 
+
+-->Les couleurs sont les suivantes : 
+
+Jaune moutarde : #E7B236
+Bleu canard : #186A77
+Noir : #191716
+Blanc : #FCFFFD
+
+
+ 

@@ -1,0 +1,44 @@
+BONUS
+
+INSERT INTO produit (nom_produit,description_produit,url_produit,tarif_produit,nombre_stock_produit,id_categorie,id_marque)values
+('Pates Penne','Paquet de 500gr de pâtes, penne','./img/penne.png',1.80,25,1,1),
+('Lessive liquide','Lessive de 30 lavages','./img/lessive.png',9.60,10,2,2),
+('Paquet café', 'Paquet de 36 dosettes Senseo','./img/cafe.png',4.20,30,3,1),
+('Pain','Baguette de pain de 250gr','./img/pain.png',1.10,20,4,1),
+('Tomate','Tomate en barquette de 500gr','./img/tomate.png',2.60,5,18,1),
+('Eau de javel','Eau de javel en bouteille de 1L','./img/javel.png',1.80,6,2),
+('Chocolat','Tablette de chocolat au lait','./img/chocolat.png',0.80,50,7,1),
+('Camembert','Camembert de 250gr','./img/fromage.png',2.10,29,8,1),
+('Madelaine','Madelaine individuel en sachet x12','./img/gateau.png',2.89,32,9,1),
+('Bouteille eau','Pack de bouteille eau 1.5Litres','./img/eau.png',2.69,49,10,3),
+('Beurre','Plaquette de beurre doux de 250gr','./img/beurre.png',3.19,19,11,1),
+('Soda Cola','Bouteille de soda 1.5Litres','./img/coca.png',1.23,35,12,3),
+('Lait','Pack de 6 bouteilles de lait de 1L','./img/lait.png',6.48,20,13,3),
+('Farine','Farine en sac de 1kg','.img/farine.png',1.49,16,14,1),
+('Essuie Tout','Essuie Tout 3 rouleaux','./img/sopalin.png',3.24,22,15,3);
+
+
+ENSUIIIITEEEE
+
+
+INSERT INTO ticket (date_ticket,nom_vendeur,prenom_vendeur)values
+('2023-01-22','Margaux','Jean'),
+('2023-01-24','Dupond','Mathys'),
+('2023-01-28','Picard','Iris'),
+('2023-02-05','Dupond','Mathys'),
+('2023-02-07','Margaux','Jean'),
+('2023-02-08','Picard','Iris'),
+('2023-02-09','Payet','Raphaelle'),
+('2023-03-03','Margaux','Jean'),
+('2023-03-04','Payet','Raphaelle'),
+('2023-03-05','Bourhis','Julie'),
+('2023-04-09','Margaux','Jean'),
+('2023-04-10','Margaux','Jean'),
+('2023-05-06','Bourhis','Julie'),
+('2023-05-07','Bourhis','Julie'),
+('2023-05-08','Dupont','Mathys'),
+('2023-06-02','Picard','Iris'),
+('2023-06-07','Bourhis','Julie'),
+('2023-06-08','Dupond','Mathys'),
+('2023-06-11','Payet','Raphaelle'),
+('2023-06-14','Bourhis','Julie');

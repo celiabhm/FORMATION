@@ -1,0 +1,8 @@
+				DESIGN 
+
+
+Pour réaliser tout ce qui concerne le visuel, le design, le logo, l'arborescence ou les maquettes, on peut se servir des sites internet suivants : 
+
+-Adobe 
+-Figma 
+-StarUml 

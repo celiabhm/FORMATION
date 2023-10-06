@@ -1,0 +1,3 @@
+					CMS 
+
+Utf8 = version pour prendre en compte par exemple les accents..

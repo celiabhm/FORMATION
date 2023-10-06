@@ -1,0 +1,15 @@
+Création table d'association : 
+
+create table participer(
+id_judoka int not null,
+id_competition int not null,
+primary key(id_judoka, id_competition)
+)Engine=InnoDB;
+
+
+Création de foreign key (contrainte) : 
+
+alter table solution
+add constraint fk_depanner_logiciel 
+foreign key (id_logiciel)
+references logiciel (id_logiciel);

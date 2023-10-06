@@ -1,0 +1,92 @@
+*{
+    background-color: white;
+}
+
+.barrerecherche{
+    text-align: right;
+}
+
+#titlesavon{ 
+    text-align: center;
+    font-style: oblique;
+    font-size: 40px;
+    color:rgb(0, 0, 0);
+    margin-bottom: 0px;
+    background-color:bisque;
+}
+
+.natureprod{
+    text-align: center;
+    font-style: oblique;
+    font-size: 20px;
+    margin-top: 0px;
+    background-color: bisque;
+}
+
+
+.infosimg{
+    border:solid;
+    text-align: center;
+    
+}
+.img{
+    margin:auto;
+
+}
+
+.prix{
+    text-decoration: underline;
+}
+
+
+.titleproduit{
+    text-align: left;
+    font-size: 20px;
+    color:rgb(2, 2, 2);
+    font-style: oblique ;
+    text-decoration: underline;
+}
+
+.description{
+    font-family:serif;
+    font-size: large;
+    text-align:left  
+}
+
+.titlecompo{
+    font-size: 20px;
+    font-style: oblique;
+}
+
+#titleavis{
+    font-style: oblique;
+}
+.avis1{
+    font-style: italic;
+    font-size: large;
+}
+
+.avis2{
+    font-style: italic;
+    font-size: large;
+}
+
+#titleutilisation{
+    font-style: oblique;
+    
+}
+
+.condlivraison{
+    font-style: italic;
+    font-size: large;
+}
+
+.footer{
+    border:solid black;
+    font-style: oblique;
+    text-align: center;
+}
+
+.button{
+    cursor: pointer;
+}

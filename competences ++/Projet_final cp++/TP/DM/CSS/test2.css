@@ -1,0 +1,23 @@
+#title {
+  background-color: bisque;
+}
+#title:hover {
+  background-color: magenta;
+}
+
+.btn, .btn-suivant {
+  text-decoration: none;
+  text-align: center;
+  font-size: 16px;
+  background-color: green;
+}
+.btn:hover, .btn-suivant:hover {
+  background-color: darkgreen;
+}
+
+.btn-suivant {
+  background-color: red;
+}
+.btn-suivant:hover {
+  background-color: darkred;
+}/*# sourceMappingURL=test2.css.map */

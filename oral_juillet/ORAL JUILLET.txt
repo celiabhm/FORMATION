@@ -1,0 +1,12 @@
+				ORAL JUILLET 
+
+
+Commencer à synthétiser le projet en présentant des parties du cahier des charges via un support (canva ou powerpoint), dont les points suivants :
+
+-Maquettage (page d'accueil)
+-zoning
+-wireframe
+-uml
+-cahier des charges
+
+Montrer l'enchainement des écrans, avant, pendant , après.

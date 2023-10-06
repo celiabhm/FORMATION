@@ -1,0 +1,180 @@
+        // HAUT DE PAGE//
+$primaire: rgb(253, 131, 1);
+$secondaire:rgb(242,242,242);
+$tertiaire:rgb(255,255,255); 
+$bordurecolor:rgb(206,206,206);
+.herve{
+    font-size: x-large;
+        #posterecherche{
+        font-size: large;
+        margin: 0%;
+    }
+}
+
+.herve,#posterecherche{
+    text-align: center;
+    color:$primaire;
+    background-color:$secondaire ;
+}
+
+#intro, #principal{
+    display:flex;
+}
+
+#intro{ 
+    background-color:$primaire;
+    font-size:smaller;
+    color: $tertiaire;
+    padding-block: 40px;
+    padding-inline:15px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    margin:0px;
+    font-style: normal;
+}
+article{
+    padding-block: 40px;
+    padding-inline:15px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    margin:0px;
+    font-style: normal;
+
+}
+
+
+
+
+
+
+#photoprofil{
+    margin: 20px;
+}
+        // CORPS DE PAGE//
+.contenu{
+    width: 68%;
+
+        #experiences-pro{
+        color:$primaire;
+        margin:20px;
+        border-bottom: solid;
+        border-color:$bordurecolor; 
+        padding-bottom: 5px;   
+    }
+}
+
+.date-exp{
+    margin:0px 10px 80px 0px;
+}
+
+.date-form{
+    margin:0px 10px 0px 0px;
+}
+
+.date-exp, .date-form{
+    float: left;
+    width: 50px;
+    height: 50px;
+    border:0.5px solid;
+    border-radius: 75px;
+    font-size:small;
+    background-color:$primaire;
+    border-color: $primaire;
+    text-align: center;
+    color:$tertiaire;
+}
+
+.experience1, .experience2{
+    padding-bottom: 20px;
+}
+
+h3{
+    font-size: medium;
+}
+
+h4{
+    color:$primaire;
+    font-style: italic;
+    font-size: medium;
+    font-weight: normal;
+}
+        // BAS DE PAGE//
+#titleformation{
+    color:$primaire;
+    border-bottom:solid;
+    border-color:$bordurecolor;
+    padding-bottom:5px;
+}
+
+.diplome1, .diplome2{
+    font-style: italic;
+    color:$primaire;
+}
+
+.espace-form{
+    margin:20px;
+
+        #universite{
+            padding-top: 10px;
+        }
+}
+        // ASIDE DROITE//
+.infos{
+    width: 32%;
+    padding: 0px  50px 90px;
+    margin-left: 50px;
+
+        .contact{
+            background-color:$primaire;
+            color:$tertiaire;
+            padding-bottom: 80px;
+        }
+}
+
+.contact{
+    background-color:$primaire;
+    color: $tertiaire;
+    padding-bottom: 80px;
+
+    .titlecontact{
+        padding-bottom: 5px;
+        padding-top: 15px;
+        border-bottom:2px solid;
+        margin-inline: 15px;
+    }
+
+}
+
+.contact ul, .asidecompet ul{
+    list-style: none;
+}
+
+.asidecompet{
+    background-color:$secondaire;
+    color:$primaire;
+    font-style: italic;
+    padding-bottom: 25px;
+}
+
+#titlecompetences, .hobbies{
+    font-size: larger;
+    font-style: normal;
+    border-bottom: solid;
+    padding-bottom: 6px;
+    padding-top: 15px;
+    margin-inline: 15px;
+}
+
+.footer{
+    color:$tertiaire;
+    background-color:$primaire;
+
+        .footer ul{
+            list-style-type: disc;
+        }
+}
+
+
+
+
+

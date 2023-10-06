@@ -1,0 +1,22 @@
+Connecter un repository local avec un repository distant :
+
+1 créer un nouveau repository sur Github,
+2 créer un nouveau repository en local (Nouveau dossier).
+3 initialiser le repository local :
+git init
+
+4 connecter les 2 repository :
+git remote add origin url
+
+5 télécharger le contenu du repository distant (IMPORTANT) cela vérifie que le dépot local et le dépot distant soit bien synchronisé.
+git pull origin master
+
+Pour envoyer la sauvegarde en ligne :
+git push origin master
+
+
+DEUXIEME FACON : 
+
+-Vous vous déplacer par (exemple sur  le bureau)
+-Ouvrir un terminal gitbash :
+git clone + https://github.com/mithridatem/collabDev

@@ -1,0 +1,39 @@
+Aujourd'hui je vais vous présenter mon projet fil rouge qui porte sur la nutrition.
+J'ai choisi ce sujet car je m'interesse beaucoup au fonctionnement du corps mais aussi car je trouve que s'épanouir dans son corps est important, la santé physique également 
+Dans le contexte Mme castel est nutritionniste depuis 10 ans, elle possède son cabinet situé a lespinasse et à la même clientèle depuis a peu près 6 ans.
+
+Ces clients actuels sont des hommes et femmes agées de 40 à 60 ans en général.
+Ele souhaiterai cibler une clientèle plus jeune, allant de 15 ans minimum, mais aussi se faire connaître dans sa péripherie et sur internet.
+L'objectif du site internet est de proposer aux utilisateurs des plats sains différents tout les jours, tout en étant gourmands,ainsi que des conseils nutritionnels.
+
+Ils auront la possibilité de filtrer les aliments pour leur plats et d'avoir un programme mensuel composé de repas chaud et froid, de témoignages de quelques clients ainsi que de conseils bien-être.
+
+Les concurrents sont Nutridéal et cabinet holistique, le premier ne possède aucun site internet, et le deuxième a un site réaliser en html/css. Le site ne propose pas de génerer des repas.
+
+Voici les couleurs choisis pour la charte graphique 
+Et pour la charte éditorial on as choisi de restez sur un ton professionnel tout en créant un lien de confiance, de sécurité avec les utilisateurs et les motivé a avoir un mode de vie sain.
+
+Le responsive donc que je l'ai effectuer ici sur un smartphone comme support.
+On peut voir différents éléments s'adapte à la taille.
+
+L'usercase ou encore le cas d'utilisation regroupe les fonctionnalités du site internet et sur la gauche on as les différents acteurs externe du système.
+
+Le diagramme d'activité qui modélise une fonctionnalité coté utilisateur et coté serveur. On peut observer des actions, deux possibilités vrai on exécute et fin de la fonctionnalité et sinon en cas d'erreur le système nous renvoi un message.
+
+
+Le diagramme de séquence permet de visualiser les appels du système lors d'un dérouler de séquence d'une fonctionnalité.
+On observe 3 lifeline, une visiteur, une base de données et le si.
+On as la possiblité d'avoir trois scénario : alternatif, erreur, ou nominale.
+Si tout ce passe bien on dira qu'il c'est un scnénario nominal, si il y as une erreur et une fin de scénario scenario erreur, et si le si nous indique de retourner à une étape de scénario c'est un alternatif.
+
+Modele conceptuel des données: 
+il y as des entités, des associations, des relations de type 1 et de type n, clé primaire.
+Modele logique des données
+Table, clé étrangère
+
+a partir du mld on va réaliser la requête de structure MySql.
+
+
+
+
+

@@ -1,0 +1,131 @@
+body{
+    width: 738px;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color: rgb(31, 73, 125);
+    font-size: 50px;
+    margin: 0px;
+}
+h2{
+    text-align: center;
+    color: rgb(31, 73, 125);
+    font-size: 20px;
+    margin: 0px;
+}
+
+.Description{
+    background-color: rgb(31 73 125);
+    color: white;
+    padding: 30px;
+    margin-inline: 15px;
+    padding-block: 55px;
+    margin-left: 0%;
+    margin-right: -3px;
+}
+.imagetext{
+    display: flex;
+    margin: 0%;
+}
+.image{
+    padding: 20px;
+}
+.exppro-for{
+    color:rgb(31, 73, 125);
+    font-size: 30px;
+    margin: 15px;
+    border-bottom: solid;
+    border-color: rgb(206, 206, 206);
+}
+.textbasexppro{
+    display: inline-flex;
+}
+.date{
+    margin: 0px 10px 50px 0px;
+    border-radius: 75px;
+    background-color: #1f497d;
+    border: 0.5px solid;
+    float: left;
+    height: 50px;
+    width: 50px;
+    font-size: small;
+    text-align: center;
+    min-width: 50px
+}
+.grand{
+    display: flex;
+}
+.block1{
+    display: flex;
+}
+.Formation{
+    display: inline-grid;
+}
+.entreprise{
+    color: #1f497d;
+}
+.Contacttitre{
+    background-color: #1f497d;
+    text-transform: uppercase;
+    padding: 17px;
+    border-bottom: solid;
+}
+
+.Competence{
+    rgb(206, 206, 206);
+    background-color: rgb(242, 242, 242);
+}
+.hobbies{
+    color: white;
+    border-bottom: solid;
+    border-color: rgb(206, 206, 206);
+    padding: 5px;
+    background-color: #1f497d;
+    height: 230px;
+}
+#aside{
+    display: block;
+    width: 32%;
+    padding:0px;
+}
+.Contact{
+    color: white;
+    border-color: rgb(206, 206, 206);
+    padding: 5px;
+    height: 230px;
+    background-color: #1f497d;
+
+}
+.herve{
+    background-color: rgb(242, 242, 242);
+}
+.titreh{
+    color: white;
+    border-bottom: solid;
+    border-color: rgb(206, 206, 206);
+    padding: 5px;
+    text-transform: uppercase;
+}
+.expfor{
+    width: 68%;
+}
+.li{
+    padding: 6px;
+    background-color: #1f497d;
+}
+.Competences{
+    border-bottom: solid;
+    text-transform: uppercase;
+    padding: 15px;
+}
+.listecompetence{
+    margin: 0px;
+    list-style-type: none;
+    height: 380px;
+    
+}
+
+
+
+

@@ -1,0 +1,32 @@
+CREER UNE BRANCHE GITHUB 
+
+Pour Créer une banche :
+git branch nom
+
+Nb : cela va créer une copier de la branche master (fichier et l'historique des commits)
+
+Toujours regarder sur quelle branche on se situe avant d'éffectuer differentes tâches. (sur mac faire git branch)
+
+Pour se déplacer sur une banche :
+git checkout nom_branche
+
+Afficher la liste des branches :
+git branch
+
+Sur windows on peut savoir sur quelle branche nous sommes car c'est écrit entre parenthèse or sur Mac ou Linux 
+on ne pourra le voir que en faisant : git branch puis il nous donnera toutes les branches + un "*" a coter de la branch sur celle ou on es.
+
+
+git stash ( si l'on insère un fichier dans la mauvaise branche) 
+ensuite on change de branche 
+et on refait un git stash puis le fichier se mettra du coup sur la branche 
+et pour finir on commit 
+
+Pour appliquer on fais stash apply
+
+
+mkdir html (création d'un dossier html) 
+aller dans un dossier : cd html 
+revenir en arrière : cd .. (ne pas oublier l'espace très important !
+
+code .= ouvre vs code

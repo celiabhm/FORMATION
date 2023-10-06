@@ -1,0 +1,21 @@
+1er Exercice collaboratif Github
+
+Exercice 1 collaboratif :
+Il y a deux façons de le faire : 
+
+
+1 version : 
+Créer un dossier dans votre ordinateur,
+ouvrir une console gitbash à l'intérieur,
+git init,
+git remote add origin https://github.com/mithridatem/collabDev
+git pull origin master
+
+2 version :
+vous vous déplacer par (exemple sur  le bureau)
+ouvrir un terminal gitbash :
+git clone https://github.com/mithridatem/collabDev
+
+Pour renommer un fichier ou un dossier : git mv nom du fichier actuelle et nom du fichier que l'on souhaite lui donner 
+ 
+code .= ouvrir vscode via des lignes de commande. 

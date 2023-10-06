@@ -1,0 +1,17 @@
+POUR SUPPRIMER DES FICHIERS :
+
+Suppression du fichier : 
+git rm nom_fichier.ext
+
+Ajouter la modification :
+git add *
+
+Sauvegarder la modification :
+git commit -m "message"
+
+Envoyer la modification en ligne :
+git push origin master
+
+
+NB : ne pas faire cette commande la car elle supprimera tout.
+git rm * 

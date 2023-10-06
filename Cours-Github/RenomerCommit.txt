@@ -1,0 +1,5 @@
+Pour pouvoir renommer le dernier commit (changer le message): 
+
+refaire la commande git commit + --amend-m "nouveau message"
+
+Il en as créer un nouveau et il l'a remplacer l'ancien par le nouveau.

@@ -1,0 +1,28 @@
+		GITHUB
+
+
+Lignes de commandes (bash) sont les mêmes sur Linux, Mac os, Windows.
+Cela sert à manipuler les fichiers plus rapidement.
+
+-se déplacer dans un répertoire
+cd chemin
+
+-remonter d'un dossier 
+cd ..
+
+-créer un dossier
+-mkdir nom_dossier
+
+-lister le contenu d'un dossier
+ls
+
+-créer un ou plusieurs fichier
+touch nom_fichier.extension 
+
+-ouvrir le dossier dans vscode
+code .
+
+-supprimer des fichiers 
+rm nom_fichier.extension
+
+git -v

@@ -1,0 +1,66 @@
+Questions préparées pour le cahier des charges : 
+
+
+PROJET
+
+1-Quels sont les produits à mettre en vente sur le site(animaux et/ou matériels) ?
+2-Souhaitez-vous faire livrer la marchandise ? si oui par quel moyen et jusqu'a quel étendu(zone) ? 
+3-Qu'est ce qui vous as amené à ouvrir une boutique ? 
+4-Souhaitez-vous faire entrer des intervenants de votre entreprise dans le projet ? 
+
+CONTEXTE 
+
+5-Quels sont vos fournisseurs ? 
+6- Quelle est votre logistique du magasin ?(Gestion, stock, jour de livraison)
+7-Quels type de conseils voulez-vous donner sur votre site ? et sous quelle forme ? (vidéos, photo,tutos)
+8-Quand voulez vous lancer votre site en ligne ? 
+9-A partir de quand voulez vous analyser le renouvellement de votre clientèle ? 
+10- Travaillez vous avec des vétérinaires, des associations ou des entreprises ? 
+11-Souhaitez vous avoir une base de données personalisé ? 
+
+CIBLE 
+
+12-Quel type de clientèle avez vous a l'heure actuelle ? Quel type de clientèle voulez vous cibler ? 
+13-Voulez vous rester sur les mêmes profils clients ? 
+14- Quel est votre budget pour le site internet ? 
+15-Voulez vous rester sur une cible de client particulier ou s'élargir au asso, entreprises, organismes publics ? 
+
+CONCURRENCE 
+
+16-Quels sont les concurrent direct de votre magasin ? et la concurrence indirect ? 
+17-De quelle façon votre offre se démarque de votre concurrence ? 
+18-Aviez-vous des abonnés sur votre page Facebook ? Si oui, combien ? 
+19-Quels sont les retours que vous avez eu concernant vos conseils, vos produits ? 
+
+CHARTE GRAPHIQUE 
+
+20-Souhaitez vous garder la même charte graphique que votre boutique ? 
+21-Si oui, quel est votre code couleur et pourquoi ? Votre logo ?  Quelle identité souhaitez vous partager ? 
+22-Sinon souhaitez vous faire appels à un graphiste? Quelles sont les idées de couleur/logo ? 
+23-Quel est votre budget pour cela ? 
+24-Souhaitez vous un site statique ou dynamique ? 
+25-Souhaitez vous prendre des images en ligne avec un paiement de droit ou bien faire appel a un photographe ou prendre des photos vous même ? 
+
+SITE MAQUETTE
+
+26-Quelles sont les fonctionnalités principales souhaitées ? 
+27-Avez vous des préférences de mise en page ? 
+
+CONTRAINTES TECHNIQUES 
+
+28-Voulez vous un compte client sur le site ? 
+29-Quels sont les moyens de paiement à avoir sur le site ? 
+30-Souhaitez vous avoir des utilisations de données personelles afin de proposer des produits adéquats à chaque clients ? 
+31-Quels sont les moyens de livraison que vous compter utilisés ? 
+32-Votre site doi être compatible avec un navigateur particulier ? 
+33-Souhaitez vous que nous nous occupions de l'hébergement du site et/ou de sa maintenance ? 
+34-Souhaitez vous faire du cross-selling pour compléter votre offre éxistante ? 
+
+DESCRIPTION FONCTIONELLE 
+
+35-Que voulez vous mettre dans les fiches produits (provenance,descriptions,composition) ?
+36-Voulez vous un système de notation de produits/ ou un système de commentaires ? 
+37-Le site doit il intégrer un moteur de recherche ? Des filtres ? 
+38-Avez vous un service après vente ? Si non souhaitez vous en avoir un et créer une page dédiée? 
+39-Souhaitez vous mettre en place une newsletter (avec une case ou l'on choisi de oui ou non s'y inscrire pour laisser le choix aux clients) 
+40-Quelles catégories souhaiter vous mettre en avant dans le menu ? 

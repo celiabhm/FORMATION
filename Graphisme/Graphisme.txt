@@ -1,0 +1,10 @@
+				Graphisme 
+
+La police Comic sans n'est pas fortement apprécié sur les sites web ainsi que sur les logos.
+Pas plus de 3 polices maximum sur une page(pour les titres, les sous-titre, et le contenu), joué plutôt avec l'épaisseur et les couleurs.
+
+Si l'on souhaite associé deux polices ensemble (par exemple pour le logo) on ne les assemble pas par hasard.
+(colorBrindly : Extension chrome).
+Voici quelques sites pour nous venir en aide sur les choix : 
+
+

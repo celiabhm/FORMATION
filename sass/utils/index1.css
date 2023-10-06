@@ -1,0 +1,80 @@
+.cardList, .socialNetwork {
+  display: flex;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+h1 {
+  color: orange;
+  -webkit-text-decoration: underline rgb(30, 30, 30);
+  text-decoration: underline rgb(30, 30, 30);
+}
+
+p {
+  color: black;
+}
+
+body {
+  width: 500px;
+}
+
+body header {
+  background-color: orange;
+}
+
+body > nav {
+  color: black;
+  width: 500px;
+}
+
+body > nav ~ img {
+  width: 300px;
+  height: 300px;
+}
+
+.card_title {
+  color: yellow;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+h1 {
+  color: orange;
+  -webkit-text-decoration: underline rgb(30, 30, 30);
+          text-decoration: underline rgb(30, 30, 30);
+}
+
+p {
+  color: black;
+}
+
+header {
+  background-color: orange;
+}
+header > .primaryNav {
+  color: black;
+  width: 500px;
+}
+header > .primaryNav_a {
+  color: antiquewhite;
+}
+header > .primaryNav_a--a {
+  -webkit-text-decoration: underline rgb(30, 30, 30);
+          text-decoration: underline rgb(30, 30, 30);
+}
+
+.card_title {
+  font-size: 3rem;
+  font-family: serif;
+  color: orange;
+}/*# sourceMappingURL=index1.css.map */

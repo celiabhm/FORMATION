@@ -1,0 +1,13 @@
+				ARRAY (tableaux)
+
+Un array est un tableau en Javascript (list en PYTHON), on peut faire plusieurs choses dans les tableaux grâce à des fonctions déja définis.
+
+Tab.push(99); = Ajoute une case au tableau, qui aura comme valeur 99.
+Tab.pop(); = Supprime la dernière case du tableau. Ceci donne un résultat (la valeur supprimer).
+Tab.length() = La taille du tableau.(en lecture uniquement, ne pas la modifier en Javascript car c'est une mauvaise pratique)
+
+Dans le tableau on compte à partir de 0 et non de 1.
+
+console.log(tab.pop); = Affichera la case qui a été supprimer.
+console.log(tab): Attention , ceci peut être trompeur 
+console.log(tab.length)= Lis le tableau , la taille du tableau.

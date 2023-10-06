@@ -1,0 +1,33 @@
+Cahier des charges 
+
+Le cahier des charges est considéré comme le "contrat" entre le developpeur et le client.
+Il dois être établi après un rendez-vous avec le client ou en amont on auras préparé différentes questions afin de réaliser ce cachier des charges.
+
+Dans le cahier des charges, il y a plusieurs parties a stipulé mais pour résumé c'est tout ce que l'on prévois pour le site internet.
+Le cahier des charges doit comprendre :
+ 
+-La présentation de l'entreprise 
+-La charte éditorial
+-La charte graphique
+-Le devis  
+-Le budget détaillé 
+-L'ergonomie 
+-La concurrence (l'éxistant)
+-Les aspects fonctionelles et technique 
+-Les techno utilisé pour réaliser le site 
+-S'il y a un contrat pour la maintenance du site 
+-L'arborescence du site 
+-Les contraintes techniques et technologiques 
+-Le diagramme (afin de dater chaque avancer de chaque étapes)
+
+Le cahier des charges doit être signé pour la validation du projet.
+Coter financier habituellement on demande un accompte. 
+On se met d'accord avec le client pour la date du lancement du site.
+Etre un peu plus large dans le diagramme par rapport au délai (mieux vaut livrer +tot que + tard).
+Concernant l'arborescence, les pages doivent être présenter en fonction de leur importance, sous plusieurs niveau de couleurs afin de bien pouvoir les distinguées les unes des autres.
+Il faut également hiérarchiser les fonctionnalités de la plus importante à la moins.
+
+l'existant: concurrent
+Jalon : contient les parties les plus importantes du projet avec ces délais
+Recette: moment ou le site fonctionne est prêt mais en environnement local.
+

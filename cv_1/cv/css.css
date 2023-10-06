@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: rgb(31, 73, 125);
+    font-size: 45px;
+}
+.soustitre{
+    text-align: center;
+    color: rgb(31, 73, 125);
+}
+.articlepresentation{
+    text-align: left;
+    background-color: rgb(31, 73, 125);
+    padding: 30px
+}
+.imagetext{
+    display: flex;
+    padding: 0px;
+}
+.imagecv{
+    padding: 20px 10px 20px
+}
+
+
+    
+

@@ -1,0 +1,159 @@
+.herve {
+  font-size: x-large;
+}
+.herve #posterecherche {
+  font-size: large;
+  margin: 0%;
+}
+
+.herve, #posterecherche {
+  text-align: center;
+  color: rgb(253, 131, 1);
+  background-color: rgb(242, 242, 242);
+}
+
+#intro, #principal {
+  display: flex;
+}
+
+#intro {
+  background-color: rgb(253, 131, 1);
+  font-size: smaller;
+  color: rgb(255, 255, 255);
+  padding-block: 40px;
+  padding-inline: 15px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+  margin: 0px;
+  font-style: normal;
+}
+
+article {
+  padding-block: 40px;
+  padding-inline: 15px;
+  padding-bottom: 20px;
+  padding-right: 30px;
+  margin: 0px;
+  font-style: normal;
+}
+
+#photoprofil {
+  margin: 20px;
+}
+
+.contenu {
+  width: 68%;
+}
+.contenu #experiences-pro {
+  color: rgb(253, 131, 1);
+  margin: 20px;
+  border-bottom: solid;
+  border-color: rgb(206, 206, 206);
+  padding-bottom: 5px;
+}
+
+.date-exp {
+  margin: 0px 10px 80px 0px;
+}
+
+.date-form {
+  margin: 0px 10px 0px 0px;
+}
+
+.date-exp, .date-form {
+  float: left;
+  width: 50px;
+  height: 50px;
+  border: 0.5px solid;
+  border-radius: 75px;
+  font-size: small;
+  background-color: rgb(253, 131, 1);
+  border-color: rgb(253, 131, 1);
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.experience1, .experience2 {
+  padding-bottom: 20px;
+}
+
+h3 {
+  font-size: medium;
+}
+
+h4 {
+  color: rgb(253, 131, 1);
+  font-style: italic;
+  font-size: medium;
+  font-weight: normal;
+}
+
+#titleformation {
+  color: rgb(253, 131, 1);
+  border-bottom: solid;
+  border-color: rgb(206, 206, 206);
+  padding-bottom: 5px;
+}
+
+.diplome1, .diplome2 {
+  font-style: italic;
+  color: rgb(253, 131, 1);
+}
+
+.espace-form {
+  margin: 20px;
+}
+.espace-form #universite {
+  padding-top: 10px;
+}
+
+.infos {
+  width: 32%;
+  padding: 0px 50px 90px;
+  margin-left: 50px;
+}
+.infos .contact {
+  background-color: rgb(253, 131, 1);
+  color: rgb(255, 255, 255);
+  padding-bottom: 80px;
+}
+
+.contact {
+  background-color: rgb(253, 131, 1);
+  color: rgb(255, 255, 255);
+  padding-bottom: 80px;
+}
+.contact .titlecontact {
+  padding-bottom: 5px;
+  padding-top: 15px;
+  border-bottom: 2px solid;
+  margin-inline: 15px;
+}
+
+.contact ul, .asidecompet ul {
+  list-style: none;
+}
+
+.asidecompet {
+  background-color: rgb(242, 242, 242);
+  color: rgb(253, 131, 1);
+  font-style: italic;
+  padding-bottom: 25px;
+}
+
+#titlecompetences, .hobbies {
+  font-size: larger;
+  font-style: normal;
+  border-bottom: solid;
+  padding-bottom: 6px;
+  padding-top: 15px;
+  margin-inline: 15px;
+}
+
+.footer {
+  color: rgb(255, 255, 255);
+  background-color: rgb(253, 131, 1);
+}
+.footer .footer ul {
+  list-style-type: disc;
+}/*# sourceMappingURL=cv.css.map */

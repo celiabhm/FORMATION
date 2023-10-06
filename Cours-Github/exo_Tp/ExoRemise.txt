@@ -1,0 +1,45 @@
+Exo github 
+
+
+ENONCER : 
+
+1 Créer un nouveau répertoire :
+2 initialiser le repository en local
+3 créer un nouveau repository sur github,
+4 Lier les 2 repository (local et distant)
+5 Récupérer le contenu distant en local(pull),
+6 Créer une branche avec votre prenom,
+7 Créer les dossiers et fichiers suivants (sur la branche master)
+-html -> index.html
+-style -> style.css,
+-script -> script.js
+8 Aller ajouter ces éléments en liste d'attente,
+9 Effectuer une remise,
+10 Se déplacer  dans la branche à votre prenom,
+11 appliquer la remise,
+12 commit la remise,
+13 envoyer sur github la nouvelle branche
+
+
+ PRATIQUE
+ 
+git init 
+git remote add origin + lien 
+git pull origin master 
+git branch celia (création d'une branche)
+mkdir html style script (création de dossier) 
+cd html (aller dans le dossier)
+touch index.html (création d'un fichier) 
+cd .. (retour en arrière) 
+cd style 
+touch style.css 
+cd ..
+cd script 
+touch script.js 
+cd ..
+git stash APPLY(enregistrer les mouvements pour les coller ailleurs)
+git checkout celia (changement de branche)
+git stash 
+git add *
+git commit 
+FIN 

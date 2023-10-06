@@ -1,0 +1,60 @@
+@import './variables';
+@import '../utils/mixins';
+@import '../utils/Extends/extends';
+@import '../base/base';
+
+
+
+//****//RESET CSS//****//
+
+*{
+    margin:0;
+    padding:0;
+    text-decoration: none;
+    list-style: none;
+}
+
+//****//VARIABLES//****//
+
+$primary-color: orange;
+$secondary-color:rgb(30,30,30);
+$textColor: black;
+
+h1{
+    color: $primary-color;
+    text-decoration: underline $secondary-color;
+}
+
+p{
+    color: $textColor;
+}
+
+header{
+    background-color: $primary-color;
+    > .primaryNav{
+        color:$textColor;
+        width:500px;
+        &_a{
+            color:antiquewhite;
+        &--a{
+            text-decoration: underline $secondary-color;
+        }
+
+        }
+
+        }
+    }
+
+.card{
+    &_title{
+        @include bigTitle;
+    }
+}
+
+.socialNetwork{
+    @extend %flexCard;
+}
+
+.cardList{
+    @extend %flexCard;
+}

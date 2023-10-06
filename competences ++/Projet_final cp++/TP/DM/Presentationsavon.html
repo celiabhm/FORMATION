@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Produits-Pin up</title>
+    <link rel="stylesheet" type="text/css" href="CSS/savon.css">
+</head>
+<body>
+
+    <!-- En-tête -->
+
+    <nav class="barrerecherche">
+        <form action="">
+        <input type="text" placeholder="Rechercher..">
+        <button type="submit">OK</button>
+        </form>
+    </nav>
+
+    <header>
+        <h1 id="titlesavon">Savon au lait de chèvre</h1>
+        <p class="natureprod">Expert dans les soins naturels</p>
+    </header>
+    
+    <!-- Corps de la page -->
+    <section>
+        <div class="infosimg">
+        <article>
+            <img class="img"src="savon.png">
+                <p class="prix">15,90€</p>   
+            <label for="savon">Quantité:</label>
+                <input type="number" id="savon" name="savon" min="0" max="8"><br>
+                <input class="button"type="submit" value="Ajouter au panier">
+                <button onclick="document.location='panier.html'">Accéder au panier</button>
+        </article>
+        </div>
+
+        
+        <article>
+            <h1 class="titleproduit">Description du produit</h1>
+                <p class="description">Ce savon compose principalement de lait de chevre,permet de traiter les imperfections cutanees.<br>Ideal pour reguler l'exces de sebum,les taches,l'acnes, il peut aussi s'utiliser sous forme de masque que l'on laisse poser 10minutes matin et soir.</p>
+        </article>
+        
+        <!-- Composition -->
+        <article>
+            <h1 class="titlecompo">Composants</h1>
+            <div class="listecompo">
+                <ul>
+                <li>Lait de chevre</li>
+                <li>Glycerin</li>
+                <li>Huile de lavande</li>
+                <li>Citronelle</li>
+                </ul>
+            </div>
+        </article>
+
+        <!-- Utilisation -->
+        <aside>
+            <h1 id="titleutilisation">Conseils d'utilisation</h1>
+            <ol>
+                <li>Matin en nettoyant visage</li>
+                <li>Soir en masque laisser poser 10mnt</li>
+            </ol>
+        </aside>
+
+        <!-- Avis -->
+        <aside>
+            <h1 id="titleavis">Avis clients</h1>
+                <p class="avis1">"Superbe savon,je recommande fortement car il m'a reguler le sebum"</p>
+                <p class="avis2">"Acheter pour des cicatrices d'acnes a l'heure actuelle elles se sont beaucoup atenuer"</p>
+        </aside>
+
+        <!-- Pied de page -->
+        <footer class="footer">
+            <h1>Livraison et retour</h1>
+                <p class="condlivraison">Livraison sous 5-7 jours ouvre<br>Aucun retour ne sera accepter pour raison d'hygiene</p>
+        </footer>
+
+    </section>
+</body>

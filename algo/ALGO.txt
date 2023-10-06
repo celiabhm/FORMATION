@@ -1,0 +1,29 @@
+					ALGO 
+
+
+Donner des instructions via un éditeur de texte à un ordinateur (en codant ici du js).
+
+
+Pour éviter certaines répétitions, on peut déclarer une variable (ex: let + nom de variable) et ensuite lui affecter une valeur (ex: let longueur=100).
+Pour schématiser une variable il faut l'imaginer comme une boîte qui contient la valeur que l'on lui auras spécifié.
+
+Incrémenter : Ajouter
+
+Pour incrémenter,il y a 2 façons différentes que l'on retrouvera dans le code mais qui nous donne le même résultat : 
+
+1- variable= variable + incrémentation 
+2- variable+= incrémentation
+
+Exemple: let longueur= longueur +100 (incrémentation).
+
+Incrémenter nous permet de modifier la valeur d'une variable sans la re définir totalement.
+
+Si l'on souhaite utiliser cette variable, on l'utilisera de cette façon la a chaque fois : 
+
+let longueur=100
+froward(longueur) = avancer de 100.
+
+Console.log= lire le contenu de la variable
+
+
+Si l'on créer une variable dans une boucle, la variable sera valable est reconnu par l'ordinateur uniquement lors des tours de boucles, une fois sorti de la fonction(tour de boucle) la variable est introuvable par l'ordinateur car elle n'éxiste nul part d'autres.On parle ici de la portée d'une variable.

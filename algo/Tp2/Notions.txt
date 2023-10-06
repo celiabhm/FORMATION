@@ -1,0 +1,14 @@
+				TP 2
+
+
+Notions : 
+
+Result = b / Ceci veut dire que le résultat est égal à la valeur de la variable 'B', on lit donc la valeur de cette variable tout simplement.
+
+Result += b / Ceci veut dire 
+
+Result ++ / Ceci veut dire que à chaque tour de boucles, on incremente de +1 a result.
+
+Result +=1 / Ceci veut dire que à chaque tour de boucles également, on ajoutera +1 au result.
+
+aaa *=1 / Ceci veut dire que l'on multipli le result par lui même (result * result).

@@ -1,0 +1,16 @@
+			Définition paramètre Javascript
+
+
+Forward : Avancer
+StrokeWeight : Taille du crayon
+noFill : Pas de remplissage / Fill(0) : remplissage à 0
+Line : Dessiner une ligne 
+Square : Dessiner un carré
+Rect : Dessiner un rectangle 
+Circle : Dessiner un cercle 
+MouseClicked : Fonction qui au clic réalise une action 
+Draw : Fonction qui permet de dessiner
+
+Il faut pour chacun leur attribuer une valeur.
+Pour les deux fonctions ci-dessus, entrer les paramètres (les actions à réaliser par l'ordinateur) à l'intérieur de chaque fonction avec des accolades.
+

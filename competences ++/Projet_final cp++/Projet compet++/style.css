@@ -1,0 +1,178 @@
+@media screen and (max-width: 600px) {
+    .fonctions {
+        font-style: oblique;
+        font-size: 20px;
+    }
+
+}
+
+body {
+    width: 738px;
+    margin: auto;
+}
+
+/* HAUT DE PAGE */
+h1 {
+    text-align: center;
+    color: rgb(31, 73, 125);
+    font-size: 50px;
+    margin: 0px;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(31, 73, 125);
+    font-size: 15px;
+    margin: 0px;
+}
+
+.herve {
+    background-color: rgb(242, 242, 242);
+}
+
+
+/* INTRODUCTION ET PHOTO */
+.Description {
+    background-color: rgb(31 73 125);
+    color: white;
+    padding: 30px;
+    margin-inline: 15px;
+    padding-block: 55px;
+    margin-left: 0%;
+    margin-right: -3px;
+}
+
+.image-text {
+    display: flex;
+    margin: 0%;
+}
+
+.image {
+    padding: 20px;
+}
+
+/* CORPS DE PAGE */
+.titleexp-pro {
+    color: rgb(31, 73, 125);
+    font-size: 30px;
+    margin: 15px;
+    border-bottom: solid;
+    border-color: rgb(206, 206, 206);
+}
+
+.fonctions {
+    display: inline-flex;
+}
+
+.date {
+    margin: 0px 10px 50px 0px;
+    border-radius: 75px;
+    background-color: #1f497d;
+    color: white;
+    border: 0.5px solid;
+    float: left;
+    height: 50px;
+    width: 50px;
+    font-size: small;
+    text-align: center;
+    min-width: 50px
+}
+
+.corps {
+    display: flex;
+}
+
+.expform {
+    width: 68%;
+}
+
+/* .block1{
+    display: flex;
+} */
+
+/* PIED DE PAGE */
+
+
+.entreprise {
+    color: #1f497d;
+}
+
+
+.diplome {
+    color: rgb(31, 73, 125)
+}
+
+/* ASIDE DROIT */
+
+.infos {
+    display: block;
+    width: 32%;
+    padding: 0px;
+}
+
+#Contact-titre {
+    background-color: #1f497d;
+    padding: 10px;
+    border-bottom: solid;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.Contact {
+    color: white;
+    border-color: rgb(206, 206, 206);
+    padding: 5px;
+    height: 230px;
+    background-color: #1f497d;
+    list-style: none;
+
+}
+
+.liste-contact {
+    padding: 6px;
+    background-color: #1f497d;
+    list-style: none;
+}
+
+.Competence {
+    background-color: rgb(242, 242, 242);
+}
+
+
+#title-Competences {
+    border-bottom: solid;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    padding: 10px;
+}
+
+
+.listecompetence {
+    margin: 0px;
+    list-style-type: none;
+    height: 380px;
+}
+
+
+#title-hobbies {
+    color: white;
+    border-bottom: solid;
+    border-color: rgb(206, 206, 206);
+    padding: 5px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.hobbies {
+    color: white;
+    border-bottom: solid;
+    border-color: rgb(206, 206, 206);
+    padding: 5px;
+    background-color: #1f497d;
+    height: 230px;
+
+}
+
+.titleColor {
+    color: rgb(233, 153, 153);
+}
